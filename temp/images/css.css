@@ -1,0 +1,15 @@
+BODY {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #4c4542; MARGIN: 0px; FONT-FAMILY: "ÐÂËÎÌו"
+}
+#hei {
+	FONT-FAMILY: "ËÎÌו"; COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #ffffff; FONT-SIZE: 14px
+}
+A:visited {
+	COLOR: #ffffff; FONT-SIZE: 14px
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
